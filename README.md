@@ -1,3 +1,1 @@
-# CorePackage
-
-A description of this package.
+# TheMovieee--Modularization-Core-Module
